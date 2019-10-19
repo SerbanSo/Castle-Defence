@@ -1,0 +1,31 @@
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\bin\Debug\Atestat.exe.config
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\bin\Debug\Atestat.exe
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\bin\Debug\Atestat.pdb
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\obj\Debug\Atestat.csprojResolveAssemblyReference.cache
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\obj\Debug\Atestat.Suprafata.resources
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\obj\Debug\Atestat.exe
+C:\elev\12A\Sorohan Serban\Atestat\Atestat\obj\Debug\Atestat.pdb
+D:\Serban\Proiect_Atestat\Atestat\Atestat\bin\Debug\Atestat.exe.config
+D:\Serban\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.pdb
+D:\Serban\Proiect_Atestat\Atestat\Atestat\bin\Debug\Atestat.exe
+D:\Serban\Proiect_Atestat\Atestat\Atestat\bin\Debug\Atestat.pdb
+D:\Serban\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.csprojResolveAssemblyReference.cache
+D:\Serban\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+D:\Serban\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+D:\Serban\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.Suprafata.resources
+D:\Serban\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+D:\Serban\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.exe
+D:\Proiect_Atestat\Atestat\Atestat\bin\Debug\Atestat.exe.config
+D:\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.exe
+D:\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.pdb
+D:\Proiect_Atestat\Atestat\Atestat\bin\Debug\Atestat.exe
+D:\Proiect_Atestat\Atestat\Atestat\bin\Debug\Atestat.pdb
+D:\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.csprojResolveAssemblyReference.cache
+D:\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+D:\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+D:\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.Suprafata.resources
+D:\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.Test.resources
+D:\Proiect_Atestat\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
